@@ -11,5 +11,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //第一次注册
+
+
+        //第一次提交
     }
 }
